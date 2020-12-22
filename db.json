@@ -4,7 +4,7 @@
         "id": 1,
         "department" : "Physician",
         "avatar" : "/assets/images/icons/doctor.png",
-        "subcategories" : [
+        "doctors" : [
           {
             "scid": 1,
             "scname":"Ravishanker Reddy",
