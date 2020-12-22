@@ -4,98 +4,85 @@
         "id": 1,
         "department" : "Physician",
         "avatar" : "/assets/images/icons/doctor.png",
-        "doctors" : [
-          {
-            "scid": 1,
-            "scname":"Ravishanker Reddy",
-            "avatar" : "/assets/images/icons/doctor.png",
-            "sdepartment" : "physician",
-            "qualification" : "MBBS MD FRC London"
-          },
-          {
-            "scid": 2,
-            "scname":"Ravishanker Reddy",
-            "avatar" : "/assets/images/icons/doctor.png",
-            "sdepartment" : "physician",
-            "qualification" : "MBBS MD FRC London"
-          },
-          {
-            "scid": 3,
-            "scname":"Ravishanker Reddy",
-            "avatar" : "/assets/images/icons/doctor.png",
-            "sdepartment" : "physician",
-            "qualification" : "MBBS MD FRC London"
-          },
-          {
-            "scid": 4,
-            "scname":"Ravishanker Reddy",
-            "avatar" : "/assets/images/icons/doctor.png",
-            "sdepartment" : "physician",
-            "qualification" : "MBBS MD FRC London"
-          },
-          {
-            "scid": 5,
-            "scname":"Ravishanker Reddy",
-            "avatar" : "/assets/images/icons/doctor.png",
-            "sdepartment" : "physician",
-            "qualification" : "MBBS MD FRC London"
-          }
-        ]
+        "doctorname": "Dr.Warrior",
+        "qualification" : "MBBS MD"
       }, 
       {
         "id": 2,
         "department" : "Dentist",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr.Prasanth",
+        "qualification" : "MDS MD"
       },
       {
         "id": 3,
         "department" : "Dermatologist",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr.Seena",
+        "qualification" : "MBBS"
       },
       {
         "id": 4,
         "department" : "Paediatric",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr.Kichu George",
+        "qualification" : "MBBS MD"
       }, 
       {
         "id": 5,
         "department" : "Orthopedician",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr.OOMMEN",
+        "qualification" : "MBBS"
       },
       {
         "id": 6,
         "department" : "Cardiology",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr. Deepak Davidson",
+        "qualification" : "MBBS MD SURGEON"
       },
       {
         "id": 7,
         "department" : "Gynologist",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr. Annie Joy",
+        "qualification" : "MBBS MD"
       },
       {
         "id": 8,
         "department" : "Neurologist",
         "avatar" : "/assets/images/icons/doctor.png"
+        "doctorname": "Dr. John Joseph",
+        "qualification" : "MBBS MD SURGEON"
       }, 
       {
         "id": 9,
         "department" : "Homeopathy",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr. Anupama",
+        "qualification" : "BHMS"
       },
       {
         "id": 10,
         "department" : "Oncologist",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr. Arun Mathew",
+        "qualification" : "MBBS MD FRCS LONDON"
       },
       {
         "id": 11,
         "department" : "Ayurveda",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr. Abdul Shukkoor",
+        "qualification" : "MAMS"
       },
       {
         "id": 12,
         "department" : "Radiologist",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
+        "doctorname": "Dr. R Sheethal",
+        "qualification" : "MBBS RADIOLOGY"
       }
     ],
     "profile" : [ 
@@ -185,5 +172,12 @@
         "img" : "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
         "title" : "Landscape view"
       }
+    ],
+    "department"[
+        {
+            "id": 1,
+            "department" : "Physician",
+            "avatar" : "/assets/images/icons/doctor.png",
+        }
     ]
   }
