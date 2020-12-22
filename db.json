@@ -52,7 +52,7 @@
       {
         "id": 8,
         "department" : "Neurologist",
-        "avatar" : "/assets/images/icons/doctor.png"
+        "avatar" : "/assets/images/icons/doctor.png",
         "doctorname": "Dr.John Joseph",
         "qualification" : "MBBS MD SURGEON"
       }, 
