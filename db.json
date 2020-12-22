@@ -46,28 +46,28 @@
         "id": 7,
         "department" : "Gynologist",
         "avatar" : "/assets/images/icons/doctor.png",
-        "doctorname": "Dr. Annie Joy",
+        "doctorname": "Dr.Annie Joy",
         "qualification" : "MBBS MD"
       },
       {
         "id": 8,
         "department" : "Neurologist",
         "avatar" : "/assets/images/icons/doctor.png"
-        "doctorname": "Dr. John Joseph",
+        "doctorname": "Dr.John Joseph",
         "qualification" : "MBBS MD SURGEON"
       }, 
       {
         "id": 9,
         "department" : "Homeopathy",
         "avatar" : "/assets/images/icons/doctor.png",
-        "doctorname": "Dr. Anupama",
+        "doctorname": "Dr.Anupama",
         "qualification" : "BHMS"
       },
       {
         "id": 10,
         "department" : "Oncologist",
         "avatar" : "/assets/images/icons/doctor.png",
-        "doctorname": "Dr. Arun Mathew",
+        "doctorname": "Dr.Arun Mathew",
         "qualification" : "MBBS MD FRCS LONDON"
       },
       {
