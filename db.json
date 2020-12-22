@@ -172,12 +172,5 @@
         "img" : "https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8V46UZCS0V.jpg",
         "title" : "Landscape view"
       }
-    ],
-    "department"[
-        {
-            "id": 1,
-            "department" : "Physician",
-            "avatar" : "/assets/images/icons/doctor.png",
-        }
     ]
   }
